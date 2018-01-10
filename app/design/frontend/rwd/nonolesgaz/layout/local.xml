@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<layout version="0.1.0">
+    <default>
+	<reference name="content">
+    		<block type="cms/block" name="cms_promotion_du_mois" before="-">
+        		<action method="setBlockId"><block_id>promotion_du_mois</block_id></action>
+    		</block>
+	</reference>
+    </default>
+</layout>
