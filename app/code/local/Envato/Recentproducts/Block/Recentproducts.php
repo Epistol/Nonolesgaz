@@ -1,4 +1,3 @@
-<?php
 // app/code/local/Envato/Recentproducts/Block/Recentproducts.php
 class Envato_Recentproducts_Block_Recentproducts extends Mage_Core_Block_Template {
   public function getRecentProducts() {
